@@ -1,11 +1,10 @@
-baseurl = ""
-title = "Hugo Themes - aether"
-author = "Joe Hutchinson"
+title = "ocimkun"
+author = "abdulrohim"
 canonifyurls = true
-paginate = 3
+paginate = 5
 theme = "ocim"
 
 [params]
-brand = "aether"
+brand = "Kampungku"
 description = "aether Hugo theme for blogs"
 bgimg = "img/ignasi_pattern_s.png"
