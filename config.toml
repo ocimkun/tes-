@@ -1,3 +1,4 @@
+baseurl = "ocimm.netlify.com"
 title = "Hugo Themes - aether"
 author = "Joe Hutchinson"
 canonifyurls = true
